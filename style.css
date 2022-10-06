@@ -250,4 +250,8 @@ body > .infoAndUpNext {
     flex-direction: row;
     margin: var(--padding) 0;
   }
+
+  .infoAndUpNext .upNext {
+    width: 500px;
+  }
 }
